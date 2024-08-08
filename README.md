@@ -1,1 +1,1 @@
-# E-commerce
+Welcome to the E-commerce Website Project! This repository contains the code for a fully functional e-commerce website built with web technologies. The project aims to provide a robust, scalable, and user-friendly online shopping experience.
